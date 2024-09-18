@@ -1,5 +1,14 @@
 <svg class="typst-doc" viewBox="0 0 292.49 100.848" width="292.49pt" height="100.848pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:h5="http://www.w3.org/1999/xhtml">
     <g>
+        <g transform="translate(0 0)">
+            <g class="typst-group">
+                <g>
+                    <g transform="translate(-0 -0)">
+                        <path class="typst-shape" fill="#ffffff" d="M 0 0 L 0 236.181 L 167.343 236.181 L 167.343 0 Z "/>
+                    </g>
+                </g>
+            </g>
+        </g>
         <g transform="translate(11 26.6508)">
             <g class="typst-text" transform="scale(1, -1)">
                 <use xlink:href="#g80FAA4AF53B7F629982C194F44B25E49" x="0" fill="#000000"/>
